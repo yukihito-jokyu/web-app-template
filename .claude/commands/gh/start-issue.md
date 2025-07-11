@@ -3,8 +3,8 @@ Issue #$ARGUMENT の内容を確認して作業着手してください。
 ## ルール
 
 - ブランチ名は`feature/#Issue番号`にして下さい。
-- コミットタスクは`.claude/git/commit.md`を参照してください。
-- Pull Request タスクは`.claude/git/pull-request.md`を参照してください。
+- コミットタスクは`.claude/commands/git/commit.md`を参照してください。
+- Pull Request タスクは`.claude/commands/git/pull-request.md`を参照してください。
 
 ## 作業手順
 
