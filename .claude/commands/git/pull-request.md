@@ -15,7 +15,8 @@ description: Pull Request 作成タスク
 
 - Pull Request は日本語で作成してください。
 - Pull Request のテンプレートは @/.github/pull_request_template.md を参照してください。
-- `その他`の部分に`resolves #$ARGUMENT`と記載する。
+- `その他`の部分に`resolves #Issue番号`と記載する。
+- `#Issue番号`が分からない場合は記載しなくてよいです。
 
 ## Your task
 
