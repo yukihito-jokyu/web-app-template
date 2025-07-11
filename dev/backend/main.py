@@ -15,3 +15,7 @@ app.add_middleware(
 @app.get("/api/hello")
 async def hello():
     return {"message": "Hello from FastAPI!"}
+
+@app.get("/api/hoge")
+async def hoge():
+    return "hogehoge"
