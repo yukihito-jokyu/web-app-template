@@ -9,8 +9,12 @@ description: gitのコミット作成タスク
 - Current git diff (staged and unstaged changes): !`git diff HEAD`
 - Current branch: !`git branch --show-current`
 - Recent commits: !`git log --oneline -10`
+
+## Rule
+
 - コミットメッセージは日本語で作成してください。
 - コミットメッセージのテンプレートは @.commit-template を参照してください。
+- コミットメッセージの最後に`#$ARGUMENT`を記載してください。
 
 ## Your task
 

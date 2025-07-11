@@ -10,8 +10,12 @@ description: Pull Request 作成タスク
 - Current branch: !`git branch --show-current`
 - Recent commits: !`git log --oneline -10`
 - Pull Request の作成: !`gh pr create`
+
+## Rule
+
 - Pull Request は日本語で作成してください。
 - Pull Request のテンプレートは @/.github/pull_request_template.md を参照してください。
+- `その他`の部分に`resolves #$ARGUMENT`と記載する。
 
 ## Your task
 
