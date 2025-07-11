@@ -10,6 +10,7 @@ description: gitのコミット作成タスク
 - Current branch: !`git branch --show-current`
 - Recent commits: !`git log --oneline -10`
 - コミットメッセージは日本語で作成してください。
+- コミットメッセージのテンプレートは @.commit-template を参照してください。
 
 ## Your task
 
